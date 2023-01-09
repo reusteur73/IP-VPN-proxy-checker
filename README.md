@@ -1,6 +1,5 @@
 # IP-VPN-proxy-checker
-shows the IP location
-checks if the IP its a VPN or proxy
+shows the IP location and checks if the IP its a VPN or proxy
 
 # requirements
  ```
