@@ -1,4 +1,3 @@
-#fuck skids
 import requests
 
 data12 = {
