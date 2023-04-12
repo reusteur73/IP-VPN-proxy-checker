@@ -26,7 +26,7 @@ def ipe():
             ipe()
         elif vpnn in r.text and prox == False:
             print(r.text)
-            print("\n [-] Bro got VPN."
+            print("\n [-] Bro got VPN.")
             ipe()
         elif vpn2 in r.text and pro2 in r.text:
             print(f"\n{r.text}")
